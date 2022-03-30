@@ -1,5 +1,7 @@
 # **Frontend Interview Preparation Kit**
 
+> These are coding practices and articles about some basic concepts of the 3 subjects above, not an extensive list for frontend interview preparation.
+
 ## React
 
 -   https://github.com/learning-zone/react-interview-questions/blob/master/react-coding-practice.md
@@ -21,5 +23,4 @@
 
 -   https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 -   https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
-
-> These are coding practices and articles about some basic concepts of the 3 subjects above, not an extensive list for frontend interview preparation.
+-   
