@@ -1,6 +1,6 @@
 # **Frontend Interview Preparation Kit**
 
-> These are coding practices and articles about some basic concepts of the 3 subjects above, not an extensive list for frontend interview preparation.
+> These are coding practices and articles about some basic concepts of the 3 subjects below, not an extensive list for frontend interview preparation.
 
 ## React
 
