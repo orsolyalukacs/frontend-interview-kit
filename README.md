@@ -1,4 +1,4 @@
-# **Frontend Interview Preparation Kit**
+# **Frontend Engineer Interview Preparation Kit**
 
 > These are coding practices and articles about some basic concepts of the 3 subjects below, not an extensive list for frontend interview preparation.
 
